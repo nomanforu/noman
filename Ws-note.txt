@@ -1,0 +1,18 @@
+1)All Fields and xml 
+All upper case or lower case only one format.
+
+2) Change method name :
+
+Balance enquiry to 
+Merchant A/C Balance Enquiry named define in the CRF document
+
+it means this is only for merchant a/c balance enquiry can we check and implement or remain open as is?
+
+
+3)Change method name to TXNAcknowledgement  to
+
+TXN Payout Acknowledgement
+
+becouse it is in crf document
+
+4)further review the document as per the crf specially method name and parameter.
